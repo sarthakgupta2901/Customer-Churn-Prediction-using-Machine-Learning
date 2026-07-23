@@ -128,31 +128,31 @@ The following analyses were performed:
 
 ### Customer Churn Distribution
 
-![Customer Churn Distribution](images/churn_distribution.png)
+![Customer Churn Distribution](churn_distribution.png)
 
 ---
 
 ### Contract Type Analysis
 
-![Contract Type Analysis](images/contract_analysis.png)
+![Contract Type Analysis](contract_analysis.png)
 
 ---
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
 ### Random Forest Confusion Matrix
 
-![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
+![Random Forest Confusion Matrix](random_forest_confusion_matrix.png)
 
 ---
 
