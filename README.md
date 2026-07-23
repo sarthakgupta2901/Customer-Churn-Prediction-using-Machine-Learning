@@ -204,59 +204,6 @@ The following classification models were implemented and evaluated:
 
 ---
 
-## Repository Structure
-
-```text
-Customer-Churn-Prediction/
-│
-├── Customer_Churn_Prediction.ipynb
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── requirements.txt
-├── README.md
-│
-└── images/
-    ├── churn_distribution.png
-    ├── contract_analysis.png
-    ├── correlation_heatmap.png
-    ├── feature_importance.png
-    └── random_forest_confusion_matrix.png
-```
-
----
-
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
-```
-
-Navigate to the project directory
-
-```bash
-cd Customer-Churn-Prediction
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open
-
-```text
-Customer_Churn_Prediction.ipynb
-```
-
----
 
 ## Results
 
@@ -288,7 +235,6 @@ Potential extensions to this project include:
 **Sarthak Gupta**
 
 B.Tech in Electronics and Communication Engineering  
-Jaypee Institute of Information Technology, Noida
 
 **Areas of Interest**
 
@@ -299,10 +245,4 @@ Jaypee Institute of Information Technology, Noida
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
